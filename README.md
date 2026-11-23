@@ -8,7 +8,7 @@ I have been building software that works for over 20 years.
 
 **[AI Hub Bar](https://github.com/OlehDemishev/AIHubBar)** is a free, open-source Mac menu bar app. One click opens a panel with the limits of your AI services (Claude, Codex, GitHub Copilot, Gemini CLI, Cursor and more), every agent session running on the Mac with what it is doing right now, and ready-made AI commands for your projects.
 
-Native Swift, macOS 14+, 13 languages, MIT license, no account. Made with Claude.
+Native Swift, macOS 14+, 13 languages, MIT license, no account.
 
 [Download](https://github.com/OlehDemishev/AIHubBar/releases/latest) · [Website](https://olehdemishev.github.io/AIHubBar/) · [8-minute walkthrough](https://youtu.be/TGii_uocqRk)
 
